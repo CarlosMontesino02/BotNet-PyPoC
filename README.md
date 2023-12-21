@@ -11,3 +11,15 @@ ingresamos el comando "exit" para terminar la conexión con los clientes y despu
 # ¿Seguiré el proyecto?
 
 Es posible que en mi tiempo libre siga el proyecto para que quede algo un poco más serio, pero esto lo he hecho simplemente por diversión/investigación, asi que no prometo nada.
+
+# Uso
+
+En el servidor se ejecuta: 
+```sh python3 server.py ```
+Y se indica un puerto elegido de forma arbitraria(obviamente que no esté en uso)
+
+En el cliente se ejecuta:
+Se debe EDITAR EL SCRIPT y establecer la variable HOST con la ip del dispositivo que está ejecutando el script server.py.
+
+```sh python3 client.py ```
+Y se especifica el mismo puerto que hemos usado antes.
