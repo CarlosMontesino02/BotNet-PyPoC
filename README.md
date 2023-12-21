@@ -7,3 +7,7 @@ Tenemos dos cripts, uno para el cliente y otro para el servidor, el servidor sim
 manda un archivo de texto(esto se debe a que uno de los posibles usos es realizar fuerza bruta desde varios hosts, y sería posible enviar a cada host un trozo de la wordlist para que las procesen a la vez y en separado), tras
 esto, se abre una shell reversa, en la que nuestro servidor puede escribir comandos que se ejecutarán en los diferentes clientes. Los comandos se muestran en la pantalla del cliente como demostración. Si queremos terminar la ejecución
 ingresamos el comando "exit" para terminar la conexión con los clientes y después abortamos el programa del servidor con Ctrl+C.
+
+# ¿Seguiré el proyecto?
+
+Es posible que en mi tiempo libre siga el proyecto para que quede algo un poco más serio, pero esto lo he hecho simplemente por diversión/investigación, asi que no prometo nada.
