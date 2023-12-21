@@ -15,11 +15,15 @@ Es posible que en mi tiempo libre siga el proyecto para que quede algo un poco m
 # Uso
 
 En el servidor se ejecuta: 
+
 ```sh python3 server.py ```
+
 Y se indica un puerto elegido de forma arbitraria(obviamente que no esté en uso)
 
 En el cliente se ejecuta:
+
 Se debe EDITAR EL SCRIPT y establecer la variable HOST con la ip del dispositivo que está ejecutando el script server.py.
 
 ```sh python3 client.py ```
+
 Y se especifica el mismo puerto que hemos usado antes.
